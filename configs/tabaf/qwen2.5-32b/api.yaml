@@ -1,0 +1,7 @@
+model_name_or_path: Qwen2.5-Coder-32B-Instruct
+adapter_name_or_path: saves/tabaf/qwen2.5-32b/lora/checkpoint-1500
+template: qwen
+# infer_backend: vllm
+# vllm_enforce_eager: true
+
+cutoff_len: 8192

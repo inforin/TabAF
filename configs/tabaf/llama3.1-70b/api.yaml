@@ -1,0 +1,8 @@
+
+model_name_or_path: Llama-3.1-70B-Instruct 
+adapter_name_or_path: saves/tabaf/llama3.1-70b/lora/checkpoint-1500
+template: llama3
+# infer_backend: vllm
+# vllm_enforce_eager: true
+
+cutoff_len: 8192

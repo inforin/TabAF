@@ -1,0 +1,114 @@
+{
+  "formulaqa_train": {
+    "file_name": "formulaqa/train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "formula"
+    }
+  },
+  "formulaqa_train_origin": {
+    "file_name": "formulaqa/train_origin.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "gold"
+    }
+  },
+  "formulaqa_dev": {
+    "file_name": "formulaqa/dev.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "formula"
+    }
+  },
+  "formulaqa_dev_origin": {
+    "file_name": "formulaqa/dev_origin.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "gold"
+    }
+  },
+  "wtq_test_format": {
+    "file_name": "wtq/test_format.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "gold"
+    }
+  },
+  "wtq_test_origin": {
+    "file_name": "wtq/test_origin.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "gold"
+    }
+  },
+  "hitab_test_format": {
+    "file_name": "hitab/test_format.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "formula"
+    }
+  },
+  "hitab_test_origin": {
+    "file_name": "hitab/test_origin.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "gold"
+    }
+  },
+  "tabfact_test_format": {
+    "file_name": "tabfact/test_format.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "gold"
+    }
+  },
+  "tabfact_test_origin": {
+    "file_name": "tabfact/test_origin.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "gold"
+    }
+  },
+  "aitqa_test_origin": {
+    "file_name": "aitqa/test_origin.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "gold"
+    }
+  },
+  "aitqa_test_format": {
+    "file_name": "aitqa/test_format.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "gold"
+    }
+  },
+  "finqa_test_origin": {
+    "file_name": "finqa/test_origin_fix.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "gold"
+    }
+  },
+  "finqa_test_format": {
+    "file_name": "finqa/test_format_fix.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "gold"
+    }
+  }
+}
