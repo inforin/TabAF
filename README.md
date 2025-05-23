@@ -90,3 +90,20 @@ The implementation for paper General Table Question Answering via Answer-Formula
   python evaluate.py --base_model llama3.1-8b
   python evaluate.py --base_model llama3.1-70b
   ```
+
+# Citation
+
+If you find our work is helpful, please cite as:
+
+```latex
+@misc{wang2025generaltablequestionanswering,
+      title={General Table Question Answering via Answer-Formula Joint Generation}, 
+      author={Zhongyuan Wang and Richong Zhang and Zhijie Nie},
+      year={2025},
+      eprint={2503.12345},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2503.12345}, 
+}
+```
+
