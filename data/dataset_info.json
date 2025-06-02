@@ -8,7 +8,7 @@
     }
   },
   "formulaqa_train_origin": {
-    "file_name": "formulaqa/train_origin.json",
+    "file_name": "formulaqa/train_text.json",
     "columns": {
       "prompt": "instruction",
       "query": "input",
@@ -24,7 +24,7 @@
     }
   },
   "formulaqa_dev_origin": {
-    "file_name": "formulaqa/dev_origin.json",
+    "file_name": "formulaqa/dev_text.json",
     "columns": {
       "prompt": "instruction",
       "query": "input",
