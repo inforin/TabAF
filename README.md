@@ -1,6 +1,6 @@
 ## FormulaQA
 
-The FormulaQA dataset is in the folder `./data/formulaqa`
+The FormulaQA dataset (in progress) is in the folder `./data/formulaqa`
 
 ## TabAF
 
@@ -44,6 +44,8 @@ The implementation for paper General Table Question Answering via Answer-Formula
   llamafactory-cli train configs/tabaf/qwen2.5-14b/train.yaml
   llamafactory-cli train configs/tabaf/qwen2.5-32b/train.yaml
   ```
+
+* We use LoRA to train our models, and [here](https://drive.google.com/drive/folders/1dcFSyDcG_fF2i6VeTqIItd2LJ-pEqz0c?usp=drive_link) we provide a set of pre-trained LoRA adapters.
 
 ### Testing
 
